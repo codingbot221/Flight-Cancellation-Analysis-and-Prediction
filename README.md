@@ -57,13 +57,13 @@ To run this project locally:
 
 ##  Code Structure
 
-├── Task1.ipynb                  # Data cleaning and exploration <br>
-├── Task2.ipynb                  # Feature engineering <br>
-├── Task3.ipynb                  # Model training  <br>
-├── Task4.ipynb                  # Evaluation and visualization  <br>
-├── feature_engineered_data.csv # Processed data after feature engineering  <br>
-├── classification_model_results.csv # Model prediction results  <br>
-├── README.md                    # Project documentation   <br>
+├── Task1.ipynb                  <br>
+├── Task2.ipynb             <br>
+├── Task3.ipynb          <br>
+├── Task4.ipynb                <br>
+├── feature_engineered_data.csv   <br>
+├── classification_model_results.csv  <br>
+├── README.md           <br>
 
 
 
