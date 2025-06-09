@@ -55,15 +55,16 @@ To run this project locally:
 - `feature_engineered_data.csv` – Dataset after feature engineering  
 - `classification_model_results.csv` – Summary of model performances
 
-## 📁 Code Structure
+##  Code Structure
 
-├── Task1.ipynb # Data cleaning and exploration
-├── Task2.ipynb # Feature engineering
-├── Task3.ipynb # Model training
-├── Task4.ipynb # Evaluation and visualization
-├── feature_engineered_data.csv
-├── classification_model_results.csv
-├── README.md # Project documentation
+├── Task1.ipynb                  # Data cleaning and exploration
+├── Task2.ipynb                  # Feature engineering
+├── Task3.ipynb                  # Model training
+├── Task4.ipynb                  # Evaluation and visualization
+├── feature_engineered_data.csv # Processed data after feature engineering
+├── classification_model_results.csv # Model prediction results
+├── README.md                    # Project documentation
+
 
 
 
