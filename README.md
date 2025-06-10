@@ -1,4 +1,4 @@
-# Flight Delay Classification Project ✈️
+# Flight Cancellation Classification Project ✈️
 
 ## Project Description
 
@@ -8,9 +8,9 @@ This project focuses on building and evaluating multiple machine learning classi
 
 To run this project locally:
 
-1. Clone the repository:
-   `git clone https://github.com/your-username/flight-delay-classification.git`  
-   `cd flight-delay-classification`
+1. Clone the repository: <br>
+   `git clone https://github.com/your-username/flight-delay-classification.git`   <br>
+   `cd flight-delay-classification`  <br>
 
 2. Open the following Jupyter notebooks in your IDE or Jupyter environment:
    - `Task1.ipynb` – Data cleaning and exploration
