@@ -87,3 +87,6 @@ _______________________________________________________________________
 - Deploy the best-performing model via a web dashboard (e.g., using Flask or Streamlit).
 - Explore deep learning alternatives for further improvement.
 
+## Internship Reports
+![image](https://github.com/user-attachments/assets/bff1541d-2a53-4f39-b468-345190d1b1b6)
+
