@@ -88,8 +88,7 @@ _______________________________________________________________________
 - Explore deep learning alternatives for further improvement.
 
 ## Internship Reports
-![̧Certificate](https://github.com/user-attachments/assets/b264ee70-d1a3-4e71-a778-e50d9f794ea5)
-
+[Certificate](https://github.com/user-attachments/files/20739257/export.pdf)
 
 ![Report](https://github.com/user-attachments/assets/bff1541d-2a53-4f39-b468-345190d1b1b6)
 
